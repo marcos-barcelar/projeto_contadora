@@ -1,0 +1,32 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+img #Logo {
+    width: 100px;
+}
+
+#menu a {
+    color: black;
+    list-style: none;
+    padding-left: 10px;
+    font-size: large;
+    font-style: italic;
+}
+
+#menu a:first-child {
+    padding-left: 450px;
+}
+
+main img {
+    width: 338px;
+}
+
+main h1 {
+    color: blue;
+}
+
+main p {
+    font-style: italic;
+}
